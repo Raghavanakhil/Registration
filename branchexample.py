@@ -16,3 +16,10 @@ def multiply(x,y):
     print(mul)
 
 multiply(4,6)
+
+
+def divison(x,y):
+    div = x/y
+    print(div)
+
+divison(10,5)
